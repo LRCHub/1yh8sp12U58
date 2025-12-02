@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Chinatown",
+  "base_artist": "Liam Gallagher",
+  "createdAt": "2025-12-02T14:20:41.005054Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chinatown",
+      "artist": "Liam Gallagher",
+      "has_synced": true,
+      "path": "select/01_Chinatown_Liam_Gallagher.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chinatown",
+      "artist": "Chaka Khan",
+      "has_synced": false,
+      "path": "select/02_Chinatown_Chaka_Khan.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lonely Tears In Chinatown",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/03_Lonely_Tears_In_Chinatown_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Chinatown Bus",
+      "artist": "Bishop Allen",
+      "has_synced": true,
+      "path": "select/04_The_Chinatown_Bus_Bishop_Allen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chinatown",
+      "artist": "A Camp",
+      "has_synced": true,
+      "path": "select/05_Chinatown_A_Camp.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chinatown Style",
+      "artist": "HTRK",
+      "has_synced": false,
+      "path": "select/06_Chinatown_Style_HTRK.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "CHINATOWN",
+      "artist": "TOTO",
+      "has_synced": true,
+      "path": "select/07_CHINATOWN_TOTO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chinatown",
+      "artist": "Starcadian",
+      "has_synced": true,
+      "path": "select/08_Chinatown_Starcadian.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chinatown",
+      "artist": "Wild Nothing",
+      "has_synced": true,
+      "path": "select/09_Chinatown_Wild_Nothing.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chinatown - Edited Version",
+      "artist": "Thin Lizzy",
+      "has_synced": true,
+      "path": "select/10_Chinatown_-_Edited_Version_Thin_Lizzy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chinatown - Live at RDS Hall, Dublin, 1980",
+      "artist": "Thin Lizzy",
+      "has_synced": false,
+      "path": "select/11_Chinatown_-_Live_at_RDS_Hall,_Dublin,_1980_Thin_Lizzy.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chinatown",
+      "artist": "Barrie",
+      "has_synced": false,
+      "path": "select/12_Chinatown_Barrie.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chinatown",
+      "artist": "Destroyer",
+      "has_synced": true,
+      "path": "select/13_Chinatown_Destroyer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Chinatown/ For The Record",
+      "artist": "Joel Plaskett Emergency",
+      "has_synced": false,
+      "path": "select/14_Chinatown__For_The_Record_Joel_Plaskett_Emergency.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Welcome To Chinatown",
+      "artist": "John Mellencamp",
+      "has_synced": true,
+      "path": "select/15_Welcome_To_Chinatown_John_Mellencamp.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fly-day Chinatown",
+      "artist": "泰葉",
+      "has_synced": true,
+      "path": "select/16_Fly-day_Chinatown_泰葉.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chinatown",
+      "artist": "Liam Gallagher",
+      "has_synced": false,
+      "path": "select/pl_01_Chinatown_Liam_Gallagher.txt"
+    }
+  ]
+}
